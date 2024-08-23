@@ -1,0 +1,6 @@
+name: MeyAPI
+version: '1.0'
+main: dev.meywy.meyAPI.MeyAPI
+api-version: '1.19'
+authors: [ Meywy ]
+website: https://meywy.is-a.dev
